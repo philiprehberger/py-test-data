@@ -24,9 +24,10 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/philiprehberger/py-test-data"
+Homepage = "https://github.com/philiprehberger/py-test-data#readme"
 Repository = "https://github.com/philiprehberger/py-test-data"
 Issues = "https://github.com/philiprehberger/py-test-data/issues"
+Changelog = "https://github.com/philiprehberger/py-test-data/blob/main/CHANGELOG.md"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/philiprehberger_test_data"]

@@ -6,7 +6,7 @@
 
 Generate realistic fake data for testing without external dependencies.
 
-## Install
+## Installation
 
 ```bash
 pip install philiprehberger-test-data
