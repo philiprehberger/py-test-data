@@ -3,6 +3,7 @@
 [![Tests](https://github.com/philiprehberger/py-test-data/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/py-test-data/actions/workflows/publish.yml)
 [![PyPI version](https://img.shields.io/pypi/v/philiprehberger-test-data.svg)](https://pypi.org/project/philiprehberger-test-data/)
 [![License](https://img.shields.io/github/license/philiprehberger/py-test-data)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Generate realistic fake data for testing without external dependencies.
 
