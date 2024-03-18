@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "philiprehberger-test-data"
-version = "0.1.6"
+version = "0.1.7"
 description = "Generate realistic fake data for testing without external dependencies"
 readme = "README.md"
 license = "MIT"

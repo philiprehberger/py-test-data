@@ -2,8 +2,7 @@
 
 [![Tests](https://github.com/philiprehberger/py-test-data/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/py-test-data/actions/workflows/publish.yml)
 [![PyPI version](https://img.shields.io/pypi/v/philiprehberger-test-data.svg)](https://pypi.org/project/philiprehberger-test-data/)
-[![License](https://img.shields.io/github/license/philiprehberger/py-test-data)](LICENSE)
-[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/py-test-data)](https://github.com/philiprehberger/py-test-data/commits/main)
 
 Generate realistic fake data for testing without external dependencies.
 
@@ -61,7 +60,6 @@ fake.many(fake.integer, 3, 1, 100)  # [42, 87, 13]
 | `fake.url()` | URL |
 | `fake.many(generator, count, *args, **kwargs)` | List of N generated values |
 
-
 ## Development
 
 ```bash
@@ -69,6 +67,24 @@ pip install -e .
 python -m pytest tests/ -v
 ```
 
+## Support
+
+If you find this project useful:
+
+⭐ [Star the repo](https://github.com/philiprehberger/py-test-data)
+
+🐛 [Report issues](https://github.com/philiprehberger/py-test-data/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+
+💡 [Suggest features](https://github.com/philiprehberger/py-test-data/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+
+❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
+
+🌐 [All Open Source Projects](https://philiprehberger.com/open-source-packages)
+
+💻 [GitHub Profile](https://github.com/philiprehberger)
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/philiprehberger)
+
 ## License
 
-MIT
+[MIT](LICENSE)
