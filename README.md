@@ -60,6 +60,14 @@ fake.many(fake.integer, 3, 1, 100)  # [42, 87, 13]
 | `fake.url()` | URL |
 | `fake.many(generator, count, *args, **kwargs)` | List of N generated values |
 
+
+## Development
+
+```bash
+pip install -e .
+python -m pytest tests/ -v
+```
+
 ## License
 
 MIT
