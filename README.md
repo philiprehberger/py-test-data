@@ -1,5 +1,9 @@
 # philiprehberger-test-data
 
+[![Tests](https://github.com/philiprehberger/py-test-data/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/py-test-data/actions/workflows/publish.yml)
+[![PyPI version](https://img.shields.io/pypi/v/philiprehberger-test-data.svg)](https://pypi.org/project/philiprehberger-test-data/)
+[![License](https://img.shields.io/github/license/philiprehberger/py-test-data)](LICENSE)
+
 Generate realistic fake data for testing without external dependencies.
 
 ## Install
