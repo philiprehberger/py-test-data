@@ -4,13 +4,13 @@ build-backend = "hatchling.build"
 
 [project]
 name = "philiprehberger-test-data"
-version = "0.1.4"
+version = "0.1.5"
 description = "Generate realistic fake data for testing without external dependencies"
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.10"
 authors = [{ name = "Philip Rehberger" }]
-keywords = ["test", "fake", "mock", "data", "fixture", "generator"]
+keywords = ["test", "fake", "mock", "data", "generator"]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Developers",
